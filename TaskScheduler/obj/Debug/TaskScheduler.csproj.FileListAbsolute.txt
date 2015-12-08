@@ -1,0 +1,6 @@
+D:\code\massive\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe.config
+D:\code\massive\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe
+D:\code\massive\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.pdb
+D:\code\massive\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csprojResolveAssemblyReference.cache
+D:\code\massive\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.exe
+D:\code\massive\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.pdb
